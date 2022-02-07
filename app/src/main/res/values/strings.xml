@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TurtlemintTestApp</string>
+    <string name="unable_to_load_data">Unable to load data</string>
+</resources>
